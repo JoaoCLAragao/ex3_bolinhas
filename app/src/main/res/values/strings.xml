@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ex3_bolinhas</string>
+    <string name="t_tulo">Título</string>
+    <string name="subt_tulo">Subtítulo</string>
+    <string name="bot_o">Botão</string>
+    <string name="texto2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+ullamcorper tempus congue. Nullam ut felis diam. Fusce iaculis
+dignissim euismod. Suspendisse sem erat, finibus eu viverra
+pharetra, condimentum sit amet quam. Ut mollis rhoncus
+condimentum. Duis eros neque, tincidunt quis mauris non,
+finibus dapibus massa. Vestibulum iaculis eros eget pharetra
+hendrerit.</string>
 </resources>
